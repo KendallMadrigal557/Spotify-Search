@@ -1,0 +1,1805 @@
+{
+    "albums": {
+        "totalCount": 52,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:album:42D6fdFJ4SLnh4jXZJrsNa",
+                    "name": "Holanda",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:6nVcHLIgY5pE2YCl8ubca1",
+                                "profile": {
+                                    "name": "Jhayco"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02cd2ceb6adaa32ecc83cec5c3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851cd2ceb6adaa32ecc83cec5c3",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273cd2ceb6adaa32ecc83cec5c3",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2023
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:65Pp2tO1Ul66KcCmmkRGWZ",
+                    "name": "Hola (Remix)",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0KPX4Ucy9dk82uj4GpKesn",
+                                "profile": {
+                                    "name": "Dalex"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1pQWsZQehhS4wavwh7Fnxd",
+                                "profile": {
+                                    "name": "Lenny Tavárez"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:37230BxxYs9ksS7OkZw3IU",
+                                "profile": {
+                                    "name": "Chencho Corleone"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028f0f79f8cb6c758356ec53b6",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518f0f79f8cb6c758356ec53b6",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738f0f79f8cb6c758356ec53b6",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2019
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:3jSI3m0EsMLXtW7MrAVBS3",
+                    "name": "Hola",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4GAS1OgXh8D5pEA6s6eBNW",
+                                "profile": {
+                                    "name": "Valentino"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
+                                "profile": {
+                                    "name": "Rauw Alejandro"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1TtXnWcUs0FCkaZDPGYHdf",
+                                "profile": {
+                                    "name": "Darell"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e027f1d1d2b3cc3bb4c253dac48",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048517f1d1d2b3cc3bb4c253dac48",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2737f1d1d2b3cc3bb4c253dac48",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2020
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:2P1I1irRcW34ZTr6TghnYY",
+                    "name": "Hola Beba",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO",
+                                "profile": {
+                                    "name": "Farruko"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02ee42164a13884509f7f7af76",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851ee42164a13884509f7f7af76",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273ee42164a13884509f7f7af76",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2010
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:02ftf7zI3U5fJ5GwyE8JC9",
+                    "name": "Hola (feat. Maluma)",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0jnsk9HBra6NMjO2oANoPY",
+                                "profile": {
+                                    "name": "Flo Rida"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1r4hJ1h58CWwUQe3MxPuau",
+                                "profile": {
+                                    "name": "Maluma"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b9150d004c3d84404daad8d4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851b9150d004c3d84404daad8d4",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b9150d004c3d84404daad8d4",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2017
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:5g1Few918BD6XtnxwLYgzZ",
+                    "name": "Hola, futuro",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4UGA0TDpRVVt2SCz8FZOMm",
+                                "profile": {
+                                    "name": "Un Corazón"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02eaf5c9eb7d64db081994106c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851eaf5c9eb7d64db081994106c",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273eaf5c9eb7d64db081994106c",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2018
+                    }
+                }
+            }
+        ]
+    },
+    "artists": {
+        "totalCount": 12,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:artist:6YwzWWudq2yuYqyqFZrYvu",
+                    "profile": {
+                        "name": "Hola Ghost"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5ebc4e2b8c7c63d79935045b452",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f178c4e2b8c7c63d79935045b452",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616100005174c4e2b8c7c63d79935045b452",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:6nVcHLIgY5pE2YCl8ubca1",
+                    "profile": {
+                        "name": "Jhayco"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5ebd8ff1e5648c9a11c7025b2e3",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f178d8ff1e5648c9a11c7025b2e3",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616100005174d8ff1e5648c9a11c7025b2e3",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:6CSvy2n6DeLrJtriClVQwI",
+                    "profile": {
+                        "name": "HOLA!"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb45609a4c387b004f99da9248",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f17845609a4c387b004f99da9248",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000517445609a4c387b004f99da9248",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:50vXpS8CxYIfp65eisEQWU",
+                    "profile": {
+                        "name": "Hola Pájaros"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273dff572b5741f3c0aa2d879e2",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851dff572b5741f3c0aa2d879e2",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02dff572b5741f3c0aa2d879e2",
+                                    "width": 300,
+                                    "height": 300
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:3qsKSpcV3ncke3hw52JSMB",
+                    "profile": {
+                        "name": "Young Miko"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb0a248d29f8faa91f971e5cae",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f1780a248d29f8faa91f971e5cae",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab676161000051740a248d29f8faa91f971e5cae",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:7CvWoscqVQJvqb0OcBRQO7",
+                    "profile": {
+                        "name": "Hola Beats"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb144f9e6f1362a58e63b686f4",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f178144f9e6f1362a58e63b686f4",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616100005174144f9e6f1362a58e63b686f4",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "episodes": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:episode:5yAs8OMJgYHGtUrSayQ7YK",
+                    "name": "Hola, Tanneritos!",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68dd66dc6e6a2edb616fe362a63",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fd66dc6e6a2edb616fe362a63",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8ad66dc6e6a2edb616fe362a63",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 2407601
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-07-25T04:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68dd66dc6e6a2edb616fe362a63",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1fd66dc6e6a2edb616fe362a63",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8ad66dc6e6a2edb616fe362a63",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "It’s time to get reacquainted with Jodie Sweetin (Stephanie Tanner) & Andrea Barber (Kimmy Gibbler)! “Full House” made them iconic sitcom stars and they are ready to revisit every detail from the very beginning. Before diving into the pilot, listen in as these lifelong pals talk about their TV family dynamic, the loss of their beloved (and adorably inappropriate) dad and how Air Bud forever left his paw print on TGIF programming. It’s just the start of your inside and behind the scenes look, so get ready to recap your favorite ‘90s show with these frenemies turned besties with the Intro episode!See omnystudio.com/listener for privacy information.",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:6tyE9f606sd0EtLaCkuU2B",
+                    "name": "Lección 1: ¡Hola!",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d0c293706348ea7a3b37a23c2",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f0c293706348ea7a3b37a23c2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a0c293706348ea7a3b37a23c2",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 477575
+                    },
+                    "releaseDate": {
+                        "isoString": "2019-12-23T17:01:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68d0c293706348ea7a3b37a23c2",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1f0c293706348ea7a3b37a23c2",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8a0c293706348ea7a3b37a23c2",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "En esta lección aprenderás las siguientes frases: ¡Hola! / ¿Cómo estás? / Estoy bien, gracias. / ¿Cuál es tu nombre? / Mi nombre es... / ¿De dónde eres? / Soy de Suecia.",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:0oMM4701j3EdFuT4PWEghi",
+                    "name": "TODO sobre el Misterioso caso de las Holandesas DESAPAREClDAS en Panamá Lissane froon Kris Kremers",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d923b7debbff8a29cfe35d312",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f923b7debbff8a29cfe35d312",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a923b7debbff8a29cfe35d312",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 1138912
+                    },
+                    "releaseDate": {
+                        "isoString": "2020-11-23T19:16:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68db930aa4e9d4a218558fadb31",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1fb930aa4e9d4a218558fadb31",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8ab930aa4e9d4a218558fadb31",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Kris Kremers y Lissane Froon, estudiantes holandesas quienes habían pasado seis meses planeando su viaje al continente americano. Ambas  desaparecieron el 1 de abril de 2014, cuando realizaban una caminata por Panamá  mientras visitaban el sendero El Pianista, Después de una búsqueda exhaustiva, se encontraron porciones de sus cuerp0s unos meses más tarde. Lo que se había iniciado como un trayecto turístico, de un momento a otro se transformó en tragedla. Las dos chicas que presumían de su travesía por el mirador y posaban en las fotos tranquilamente, unos momentos más tarde pedían auxili0 por la línea telefónica. Hosted on Acast. See acast.com/privacy for more information.",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:3JlxH0v8uUkjYVjqHEr9XI",
+                    "name": "50. ¿Cómo superar un divorcio o una ruptura? Con Hola Sunshine ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68dcec77b3d8116bf957a9aa9fe",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fcec77b3d8116bf957a9aa9fe",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8acec77b3d8116bf957a9aa9fe",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 5051245
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-10-11T15:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68d5f9198adbaf34779e90fed30",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1f5f9198adbaf34779e90fed30",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8a5f9198adbaf34779e90fed30",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Guerreros, si mi amiga Marisol pudo superar un divorcio, cortar con el rufián es pan comido JAJA. En este episodio Marisol nos cuenta cómo se ha casado dos veces conociendo a sus rufianes por bumble y Tinder, cómo fue para ella su primer divorcio y lo que a ella le funcionó para superarlo y re hacer su vida.  No se te olvide compartir y mandárselo a esa persona que necesita escucharlo. Síguenos en nuestras redes para más contenido así de perrito.  @florencia.guillot  @holasunshinee",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:5M3CshacUpx79dUIcCHctN",
+                    "name": "CASAS MALDITAS, EL HOLANDES VOLADOR Y EXTRAÑO CASO DE POSESIÓN",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d1a5eca1d71c4e471883f398a",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f1a5eca1d71c4e471883f398a",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a1a5eca1d71c4e471883f398a",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 2138226
+                    },
+                    "releaseDate": {
+                        "isoString": "2022-05-15T23:43:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68d74a4c26a6315f1b6606e8a98",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1f74a4c26a6315f1b6606e8a98",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8a74a4c26a6315f1b6606e8a98",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Hola! bienvenido a mi capitulo numero 9 de podcast extra anormal, en esta ocasión mi hermano y yo hablamos sobre algunas caricaturas que de niños nos asustaron mucho, también hablamos sobre algunas experiencias de casas donde espantan entre ellas la mansión wínchester, también contamos la verdadera historia del holandés volador y para terminar reaccionamos a un video que un seguidor me hizo llegar de  una supuesta posesión demoniaca, abróchate el cinturón y  disfruta de terror!",
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:0qPpIHJfNLHgCZ7I8odRYc",
+                    "name": "1. Hola and Chao (Greetings and Farewells)",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68dd9e0bc6427bb1373e0d4551d",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fd9e0bc6427bb1373e0d4551d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8ad9e0bc6427bb1373e0d4551d",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 487000
+                    },
+                    "releaseDate": {
+                        "isoString": "2019-12-03T19:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68da9da5c503163fd9fab3a695d",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1fa9da5c503163fd9fab3a695d",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8aa9da5c503163fd9fab3a695d",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "How do you say \"Hi\" in Spanish? And \"Goodbye\"? 🤔In this episode, you will learn greetings and farewells in Spanish in both formal and informal ones.📝 Summary of the episode in our blog ⬇️https://latinele.com/greetings-and-farewells-in-spanish/Need additional material? Start your Spanish journey with our course Spanish for Beginners✉️ Subscribe to our Newsletter and get updates to improve your Spanish.❤️ And if you like our show, don’t forget to rate us on your listening app :)⭐⭐⭐⭐⭐This show is part of the Spreaker Prime Network, if you are interested in advertising on this podcast, contact us at https://www.spreaker.com/show/4703290/advertisement",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            }
+        ]
+    },
+    "genres": {
+        "totalCount": 0,
+        "items": []
+    },
+    "playlists": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:playlist:6vcBLs5Z1oMCV8WZC3qkRZ",
+                    "name": "Hola Hola Cómo Estás Pelina",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e0230b8486ad4805b45e4c557c3ab67616d00001e0270725311692db411404aa1d1ab67616d00001e0297d34448c981a8e141f8a095ab67616d00001e02d377e314f7b14b9a6efaa0ba",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e0230b8486ad4805b45e4c557c3ab67616d00001e0270725311692db411404aa1d1ab67616d00001e0297d34448c981a8e141f8a095ab67616d00001e02d377e314f7b14b9a6efaa0ba",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e0230b8486ad4805b45e4c557c3ab67616d00001e0270725311692db411404aa1d1ab67616d00001e0297d34448c981a8e141f8a095ab67616d00001e02d377e314f7b14b9a6efaa0ba",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Mary Garcia"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:2aiLMeLPybdFB8CP6rYPXC",
+                    "name": "she said hola como esta",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e022090f4f6cc406e6d3c306733ab67616d00001e0282e3e6968e73ec00a9f7861bab67616d00001e02d46a9d869530328d7de85652c6b052717b0c148054e606a8bee58b6257c6b550",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e022090f4f6cc406e6d3c306733ab67616d00001e0282e3e6968e73ec00a9f7861bab67616d00001e02d46a9d869530328d7de85652c6b052717b0c148054e606a8bee58b6257c6b550",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e022090f4f6cc406e6d3c306733ab67616d00001e0282e3e6968e73ec00a9f7861bab67616d00001e02d46a9d869530328d7de85652c6b052717b0c148054e606a8bee58b6257c6b550",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "lil_luisbro"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:6qvTtekAabEaZED2nZh252",
+                    "name": "Hola Beba (Remix)",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e0200179441385c0be7aeaeabccab67616d00001e0280b3341e1bae2887870b0160ab67616d00001e0289a8a594b4fea81c263ff661ab67616d00001e02ee42164a13884509f7f7af76",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e0200179441385c0be7aeaeabccab67616d00001e0280b3341e1bae2887870b0160ab67616d00001e0289a8a594b4fea81c263ff661ab67616d00001e02ee42164a13884509f7f7af76",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e0200179441385c0be7aeaeabccab67616d00001e0280b3341e1bae2887870b0160ab67616d00001e0289a8a594b4fea81c263ff661ab67616d00001e02ee42164a13884509f7f7af76",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Margie"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:3AUI1SM45nuyR0gzSdNGGs",
+                    "name": "BLANQUITA PARECE DE HOLANDA",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67706c0000da84ada2e7344fea96483d48e247",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Matuu"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1E4vzr3EUxqvX4",
+                    "name": "Radio de Hola Beats",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://seeded-session-images.scdn.co/v1/img/artist/7CvWoscqVQJvqb0OcBRQO7/es-LA",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:3L0Zq9ReLnyhhwIRqFHjVV",
+                    "name": "Hola – Kendo Kaponi",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e021d4993c26f31193437e6fe9bab67616d00001e02827d0777f8cccdf5b7481442ab67616d00001e02d31a7c12670c4041261b57c3ab67616d00001e02f1f2867b27899155bedaf99e",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e021d4993c26f31193437e6fe9bab67616d00001e02827d0777f8cccdf5b7481442ab67616d00001e02d31a7c12670c4041261b57c3ab67616d00001e02f1f2867b27899155bedaf99e",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e021d4993c26f31193437e6fe9bab67616d00001e02827d0777f8cccdf5b7481442ab67616d00001e02d31a7c12670c4041261b57c3ab67616d00001e02f1f2867b27899155bedaf99e",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Luis Rodriguez"
+                    }
+                }
+            }
+        ]
+    },
+    "podcasts": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:show:3SSNvgfCf5QwDhyeJMGjuR",
+                    "name": "Hola Sueños",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d0c8b28b9e70f751aad7d82c8",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f0c8b28b9e70f751aad7d82c8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a0c8b28b9e70f751aad7d82c8",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Hola Sueños"
+                    },
+                    "mediaType": "MIXED"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:4DNwRYR33Oau9mB1562wbl",
+                    "name": "¡Hola Nature! A Spanish Learning Adventure for Kids",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68ddbce15450705181b405f2768",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fdbce15450705181b405f2768",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8adbce15450705181b405f2768",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Niños and Nature"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:4qTcJF6lGb9liO2Pkz6m2T",
+                    "name": "Hola Qué Pasa - News in Easy Spanish",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d924756b8e1b92147496ddd88",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f924756b8e1b92147496ddd88",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a924756b8e1b92147496ddd88",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "holaquepasa.com"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:7iFKQzoXDQgP3UMSStdU16",
+                    "name": "Hola",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d6d80e4c356850c46f600bc47",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f6d80e4c356850c46f600bc47",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a6d80e4c356850c46f600bc47",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Las Hermanas Aventureras"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:08FEki4BAQRMj7OKust5t1",
+                    "name": "Hola omanaa",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68db694dad52f275a43f9af6353",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fb694dad52f275a43f9af6353",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8ab694dad52f275a43f9af6353",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Un Podcast y Meditaciones con ideas prácticas para vivir mejor"
+                    },
+                    "mediaType": "MIXED"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:4iRVpJXGictKpDYfJ0ykNp",
+                    "name": "Hola ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68da939518c0cd9f96d745cd6f9",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fa939518c0cd9f96d745cd6f9",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8aa939518c0cd9f96d745cd6f9",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "ANGELA RAMIREZ"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            }
+        ]
+    },
+    "topResults": {
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:artist:6YwzWWudq2yuYqyqFZrYvu",
+                    "profile": {
+                        "name": "Hola Ghost"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5ebc4e2b8c7c63d79935045b452",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f178c4e2b8c7c63d79935045b452",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616100005174c4e2b8c7c63d79935045b452",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:6irysuQyZWd7Bjj7ePiOs2",
+                    "id": "6irysuQyZWd7Bjj7ePiOs2",
+                    "name": "Holanda",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:42D6fdFJ4SLnh4jXZJrsNa",
+                        "name": "Holanda",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02cd2ceb6adaa32ecc83cec5c3",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851cd2ceb6adaa32ecc83cec5c3",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273cd2ceb6adaa32ecc83cec5c3",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "42D6fdFJ4SLnh4jXZJrsNa",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa?si=UIxaPfBMQZKSl-LB2A6B-g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:6nVcHLIgY5pE2YCl8ubca1",
+                                "profile": {
+                                    "name": "Jhayco"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 231693
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:6vcBLs5Z1oMCV8WZC3qkRZ",
+                    "name": "Hola Hola Cómo Estás Pelina",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e0230b8486ad4805b45e4c557c3ab67616d00001e0270725311692db411404aa1d1ab67616d00001e0297d34448c981a8e141f8a095ab67616d00001e02d377e314f7b14b9a6efaa0ba",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e0230b8486ad4805b45e4c557c3ab67616d00001e0270725311692db411404aa1d1ab67616d00001e0297d34448c981a8e141f8a095ab67616d00001e02d377e314f7b14b9a6efaa0ba",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e0230b8486ad4805b45e4c557c3ab67616d00001e0270725311692db411404aa1d1ab67616d00001e0297d34448c981a8e141f8a095ab67616d00001e02d377e314f7b14b9a6efaa0ba",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Mary Garcia"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:42D6fdFJ4SLnh4jXZJrsNa",
+                    "name": "Holanda",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:6nVcHLIgY5pE2YCl8ubca1",
+                                "profile": {
+                                    "name": "Jhayco"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02cd2ceb6adaa32ecc83cec5c3",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851cd2ceb6adaa32ecc83cec5c3",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273cd2ceb6adaa32ecc83cec5c3",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2023
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:3SSNvgfCf5QwDhyeJMGjuR",
+                    "name": "Hola Sueños",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d0c8b28b9e70f751aad7d82c8",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f0c8b28b9e70f751aad7d82c8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a0c8b28b9e70f751aad7d82c8",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Hola Sueños"
+                    },
+                    "mediaType": "MIXED"
+                }
+            }
+        ],
+        "featured": []
+    },
+    "tracks": {
+        "totalCount": 82,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:track:6irysuQyZWd7Bjj7ePiOs2",
+                    "id": "6irysuQyZWd7Bjj7ePiOs2",
+                    "name": "Holanda",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:42D6fdFJ4SLnh4jXZJrsNa",
+                        "name": "Holanda",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02cd2ceb6adaa32ecc83cec5c3",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851cd2ceb6adaa32ecc83cec5c3",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273cd2ceb6adaa32ecc83cec5c3",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "42D6fdFJ4SLnh4jXZJrsNa",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa?si=XQ9rxj0XQEqWz9mrOBQzkQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:6nVcHLIgY5pE2YCl8ubca1",
+                                "profile": {
+                                    "name": "Jhayco"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 231693
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:0MEZYGMSPxNwUO4nAdQRBW",
+                    "id": "0MEZYGMSPxNwUO4nAdQRBW",
+                    "name": "Hola Como Vas",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:4JaYe7HIddzNaF3rUgJzHI",
+                        "name": "Sauce Boyz 2",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0202b1465a8e6b21d3308c18f4",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000485102b1465a8e6b21d3308c18f4",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27302b1465a8e6b21d3308c18f4",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "4JaYe7HIddzNaF3rUgJzHI",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI?si=LHP96JIMTK-IWrDUwXIVtw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:5XJDexmWFLWOkjOEjOVX3e",
+                                "profile": {
+                                    "name": "Eladio Carrion"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 198739
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:5stPVcRqb4qixbafP9e8lt",
+                    "id": "5stPVcRqb4qixbafP9e8lt",
+                    "name": "Hola - Remix",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:65Pp2tO1Ul66KcCmmkRGWZ",
+                        "name": "Hola (Remix)",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e028f0f79f8cb6c758356ec53b6",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d000048518f0f79f8cb6c758356ec53b6",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2738f0f79f8cb6c758356ec53b6",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "65Pp2tO1Ul66KcCmmkRGWZ",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ?si=wrM9Z8f_TN270BpDNSJ_1g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0KPX4Ucy9dk82uj4GpKesn",
+                                "profile": {
+                                    "name": "Dalex"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1pQWsZQehhS4wavwh7Fnxd",
+                                "profile": {
+                                    "name": "Lenny Tavárez"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:37230BxxYs9ksS7OkZw3IU",
+                                "profile": {
+                                    "name": "Chencho Corleone"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:2LmcxBak1alK1bf7d1beTr",
+                                "profile": {
+                                    "name": "Juhn"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:3fZk3Gm5dN5v5yfYMQ04Bx",
+                                "profile": {
+                                    "name": "Dímelo Flow"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 249520
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:5zCybYDkxQhyazQMNYejmR",
+                    "id": "5zCybYDkxQhyazQMNYejmR",
+                    "name": "Holanda",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:1cpsqkKrXIXUM32MI8fzK8",
+                        "name": "Reggaetón Selecto",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02fbb51a514089478867b6733c",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851fbb51a514089478867b6733c",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273fbb51a514089478867b6733c",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "1cpsqkKrXIXUM32MI8fzK8",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/1cpsqkKrXIXUM32MI8fzK8?si=L6mLSFZXT4-zmLZLIeuvNQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:6nVcHLIgY5pE2YCl8ubca1",
+                                "profile": {
+                                    "name": "Jhayco"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 231693
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:6doqf1ew9CXLa1omRKvvjj",
+                    "id": "6doqf1ew9CXLa1omRKvvjj",
+                    "name": "Hola",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:3jSI3m0EsMLXtW7MrAVBS3",
+                        "name": "Hola",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e027f1d1d2b3cc3bb4c253dac48",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d000048517f1d1d2b3cc3bb4c253dac48",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2737f1d1d2b3cc3bb4c253dac48",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "3jSI3m0EsMLXtW7MrAVBS3",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/3jSI3m0EsMLXtW7MrAVBS3?si=0Z72vhTgR0OdBhqJyFACBQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4GAS1OgXh8D5pEA6s6eBNW",
+                                "profile": {
+                                    "name": "Valentino"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
+                                "profile": {
+                                    "name": "Rauw Alejandro"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1TtXnWcUs0FCkaZDPGYHdf",
+                                "profile": {
+                                    "name": "Darell"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 229413
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:17I27VXKtqXJHL6ReaG0eS",
+                    "id": "17I27VXKtqXJHL6ReaG0eS",
+                    "name": "Hola - Remix",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:2xscWVWifSGkfqPmqC122O",
+                        "name": "Yo Te Quiero Pa Mi",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e024ff87c537b7a187063affff1",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d000048514ff87c537b7a187063affff1",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2734ff87c537b7a187063affff1",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "2xscWVWifSGkfqPmqC122O",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/2xscWVWifSGkfqPmqC122O?si=ceJKrTovR1GFb_-MXEJ_lQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0KPX4Ucy9dk82uj4GpKesn",
+                                "profile": {
+                                    "name": "Dalex"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:1pQWsZQehhS4wavwh7Fnxd",
+                                "profile": {
+                                    "name": "Lenny Tavárez"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:37230BxxYs9ksS7OkZw3IU",
+                                "profile": {
+                                    "name": "Chencho Corleone"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:2LmcxBak1alK1bf7d1beTr",
+                                "profile": {
+                                    "name": "Juhn"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:3fZk3Gm5dN5v5yfYMQ04Bx",
+                                "profile": {
+                                    "name": "Dímelo Flow"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 249520
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            }
+        ]
+    },
+    "users": {
+        "totalCount": 6,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:user:jjwowjc3bcb1mkitgkwyw6pcr",
+                    "id": "jjwowjc3bcb1mkitgkwyw6pcr",
+                    "displayName": "Hola Radios",
+                    "username": "jjwowjc3bcb1mkitgkwyw6pcr",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82956db4ef76a4dea5c1bebda9",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85956db4ef76a4dea5c1bebda9"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:ap9b81l9e6n2v2ogddd5p6d5r",
+                    "id": "ap9b81l9e6n2v2ogddd5p6d5r",
+                    "displayName": "Hola muy buenas tardes",
+                    "username": "ap9b81l9e6n2v2ogddd5p6d5r",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b827bf2aa3b90b7af2115ff3022",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee857bf2aa3b90b7af2115ff3022"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:holamellamoboza",
+                    "id": "holamellamoboza",
+                    "displayName": "holamellamoboza",
+                    "username": "holamellamoboza",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b825eb7f0db60da961a5066f8e6",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee855eb7f0db60da961a5066f8e6"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:11129715936",
+                    "id": "11129715936",
+                    "displayName": "@holainstgrm",
+                    "username": "11129715936",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b823a63b41a3fa25052e78ab92e",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee853a63b41a3fa25052e78ab92e"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:7ov914y2uv0iq9u69f5eoqfkc",
+                    "id": "7ov914y2uv0iq9u69f5eoqfkc",
+                    "displayName": "Hola Coffee",
+                    "username": "7ov914y2uv0iq9u69f5eoqfkc",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b824211dd45ac5058d6d87b2672",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee854211dd45ac5058d6d87b2672"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:1292825262",
+                    "id": "1292825262",
+                    "displayName": "Hola keaze",
+                    "username": "1292825262",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8202d873e0202de81280125079",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8502d873e0202de81280125079"
+                    }
+                }
+            }
+        ]
+    }
+}
